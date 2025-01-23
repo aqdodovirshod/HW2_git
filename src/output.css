@@ -747,6 +747,10 @@ video {
   gap: 80px;
 }
 
+.gap-\[20px\] {
+  gap: 20px;
+}
+
 .rounded-full {
   border-radius: 9999px;
 }
@@ -781,6 +785,15 @@ video {
 .bg-\[\#FCFCFC\] {
   --tw-bg-opacity: 1;
   background-color: rgb(252 252 252 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\] {
+  background-color: ;
+}
+
+.bg-\[\#004D7B\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 77 123 / var(--tw-bg-opacity, 1));
 }
 
 .p-\[10px\] {
